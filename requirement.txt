@@ -1,0 +1,6 @@
+
+You need Ollama, download from Ollama, Ollama needs to be running on your machine to run the app
+- pull llama3 (might need to get straight from Meta AI)
+- pull mxbai-embed-large (embeddings model)
+
+Need to use a conda environment
